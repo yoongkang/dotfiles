@@ -1,6 +1,7 @@
 set nocompatible              " required
-filetype off                  " required
+filetype on                   " required
 syntax on
+colorscheme one
 set backspace=2
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
